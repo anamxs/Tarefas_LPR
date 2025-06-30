@@ -1,4 +1,4 @@
-# Aula 6 - Estruturas de Repetição
+# Aula 5 - Estruturas de Repetição
 
 Nesta aula, estudamos as principais estruturas de repetição utilizadas em programação para executar blocos de código múltiplas vezes com base em condições específicas.
 
