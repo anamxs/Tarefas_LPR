@@ -1,26 +1,35 @@
-# Tarefas de Linguagem de Programação (LPR)
+# 💻 Tarefas de Linguagem de Programação (LPR)
 
-Este repositório contém as atividades desenvolvidas durante as aulas de **Linguagem de Programação**, no curso técnico em **Eletrônica com Ênfase em Desenvolvimento de Sistemas**.
-
-## Linguagens utilizadas
-
-- **C++** (linguagem de programação procedural)
-- **C#** (linguagem orientada a objetos com foco em aplicações de console)
-
-## Organização
-
-As tarefas estão organizadas em pastas por aula:
-
-- `AULA4/` – Exercícios introdutórios com vetores e entrada de dados (C++)
-- `AULA5/` – Manipulação de vetores e estruturas básicas (C++)
-- `AULA6/` – Uso de funções, escopo de variáveis, e parâmetros (C++)
-- `AULA7/` – Operações com matrizes, leitura e multiplicação (C++)
-- `EXTRA/` – Atividades feitas em C#, como seleção de heróis e pesquisa em vetores
-
-## Objetivo
-
-O objetivo das tarefas é praticar a lógica de programação, o uso de estruturas de dados simples e desenvolver fluência nas linguagens C++ e C# por meio da resolução de problemas práticos.
+🎓 **Ana Clara**  
+📚 Aluna do curso técnico em **Eletrônica com Ênfase em Desenvolvimento de Sistemas**
 
 ---
 
-> Desenvolvido por Ana Clara – Aluna Técnica em Eletrônica com Ênfase em Desenvolvimento de Sistemas
+## 🚀 Sobre este repositório
+
+Este repositório reúne todas as tarefas realizadas nas aulas de **Linguagem de Programação**, organizadas por aula e por linguagem utilizada.
+
+## 🛠️ Linguagens Utilizadas
+
+- 🔹 **C++** – Linguagem estruturada usada em exercícios de lógica e estruturas de dados.
+- 🔸 **C# (CSharp)** – Utilizada em aplicações simples de console com foco em entrada/saída e decisões.
+
+---
+
+## 📁 Organização das pastas
+
+| Pasta   | Conteúdo                                              | Linguagem |
+|---------|-------------------------------------------------------|-----------|
+| `AULA4` | Vetores e entrada de dados                            | C++       |
+| `AULA5` | Manipulação de vetores e variáveis compostas          | C++       |
+| `AULA6` | Funções, escopo de variáveis e parâmetros             | C++       |
+| `AULA7` | Matrizes: leitura, escrita e multiplicação            | C++       |
+| `EXTRA` | Exercícios em C# (ex: sistema de heróis, vetores)     | C#        |
+
+---
+
+## 🎯 Objetivo das tarefas
+
+Praticar:
+- A lógica de programação
+- A manipulação de estruturas como vetores e
