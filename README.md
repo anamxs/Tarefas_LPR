@@ -24,7 +24,7 @@ Este repositório reúne todas as tarefas realizadas nas aulas de **Linguagem de
 | `AULA5` | Manipulação de vetores e variáveis compostas          | C++ /  C# |
 | `AULA6` | Funções, escopo de variáveis e parâmetros             | C++ /  C# |
 | `AULA7` | Matrizes: leitura, escrita e multiplicação            | C++ /  C# |
-| `EXTRA` | Exercícios em C# (ex: sistema de heróis, vetores)     | C#  /  C# |
+| `EXTRA` | Exercícios em C# (ex: sistema de heróis, vetores)     | C#        |
 
 ---
 
