@@ -1,4 +1,4 @@
-# Aula 6 - Funções em C++
+# Aula 6 - Funções
 
 Nesta aula, estudamos como declarar, utilizar e organizar funções em programas C++. Aprendemos também a lidar com escopo de variáveis, retorno de valores e passagem de parâmetros.
 
