@@ -32,4 +32,4 @@ Este repositório reúne todas as tarefas realizadas nas aulas de **Linguagem de
 
 Praticar:
 - A lógica de programação
-- A manipulação de estruturas como vetores e
+- A manipulação de estruturas
