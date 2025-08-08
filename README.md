@@ -18,13 +18,13 @@ Este repositório reúne todas as tarefas realizadas nas aulas de **Linguagem de
 
 ## 📁 Organização das pastas
 
-| Pasta   | Conteúdo                                              | Linguagem |
-|---------|-------------------------------------------------------|-----------|
-| `AULA4` | Vetores e entrada de dados                            | C++ /  C# |
-| `AULA5` | Manipulação de vetores e variáveis compostas          | C++ /  C# |
-| `AULA6` | Funções, escopo de variáveis e parâmetros             | C++ /  C# |
-| `AULA7` | Matrizes: leitura, escrita e multiplicação            | C++ /  C# |
-| `EXTRA` | Exercícios em C# (ex: sistema de heróis, vetores)     | C#        |
+| Conteúdo                                              | Linguagem |
+|-------------------------------------------------------|-----------|
+| Vetores e entrada de dados                            | C++ /  C# |
+| Manipulação de vetores e variáveis compostas          | C++ /  C# |
+| Funções, escopo de variáveis e parâmetros             | C++ /  C# |
+| Matrizes: leitura, escrita e multiplicação            | C++ /  C# |
+|-------------------------------------------------------------------|
 
 ---
 
